@@ -1,0 +1,6 @@
+package com.zhang.testgit;
+
+public class Tes {
+    private String name;
+
+}
